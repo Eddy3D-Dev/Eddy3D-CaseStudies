@@ -1,10 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
-
-
 | Title                                                                                                    | 3DM                                                                                                                    | GHX                                                                                                                    | Contact Info                                                                                              | Github Handle                            |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | [Reykjavik_Iceland](https://raw.githubusercontent.com/Eddy3D-Dev/Eddy3D-CaseStudies/main/Reykjavik_Iceland/Reykjavik_Iceland.pdf) | [3DM](https://raw.githubusercontent.com/Eddy3D-Dev/Eddy3D-CaseStudies/main/Reykjavik_Iceland/Reykjavik_Iceland.3dm)      | [GHX](https://github.com/Eddy3D-Dev/Eddy3D-CaseStudies/tree/main/Reykjavik_Iceland)                                    | [Remy Mermelstein](https://www.linkedin.com/in/remy-mermelstein), B. Arch., Cornell University            | [rsm278](https://github.com/rsm278)     |
